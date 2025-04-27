@@ -1,5 +1,7 @@
 # Pâte à tartiner
+![pâte_a_tartiner](illustration_PAT.png)
 Pâte a tartiner très bonne. juste après l'avoir préparer elle est un peu fluide mais après 24h elle se densifie. La recette est normalement réalisée avec des noisettes mais allergie oblige j'ai remplacé par des noix et tout va bien :). 
+
 ## Ingrédients : 
 
 - 300 g de noix entières
