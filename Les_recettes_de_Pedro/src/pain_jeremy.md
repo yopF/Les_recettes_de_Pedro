@@ -1,6 +1,6 @@
 # Pain à Jéremy
 Pain sans pétrissage. 
-
+![Pain_jerem](pain_jerem.png)
 ## Ingrédients : 
 
 - 400 g
@@ -20,4 +20,4 @@ Un endroit chaud en hiver ça peut être un four préchauffé à 60° puis on l'
 Renverser la pâte dans un plat rond avec une feuille de papier cuisson. 
 
 ### Etapes 4:
-Faire cuirse 30-40min à 210° avec un fond d'eau dans le lèche frite en bas du four. 
+Faire cuire 30-40min à 210° avec un fond d'eau dans le lèche frite en bas du four. 
