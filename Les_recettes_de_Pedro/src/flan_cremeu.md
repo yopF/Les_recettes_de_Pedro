@@ -1,7 +1,8 @@
 # Flan
 ![flan](flan.png)
 Très bonne recette de flan super crémeux. 
-Il est tout à fait possible de découper la recette. Par exemple, je prépare souvent la pate sucrée la veille ainsi que l'appreil. Puis je fais le montage et la cuisson le lendemain. 
+Il est tout à fait possible de découper la recette. Par exemple, je prépare souvent la pate sucrée la veille ainsi que l'appreil. Puis je fais le montage et la cuisson le lendemain.
+Recette de Norbet Tarayre : [Vidéo](https://www.youtube.com/watch?v=4qof41d2qxE) 
 ## Ingrédients : 
 Pâte sucrée : 
 - 110g beurre
