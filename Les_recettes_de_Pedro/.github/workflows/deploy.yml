@@ -15,7 +15,7 @@ jobs:
 
       - name: Install mdBook
         run: |
-          curl -sSL https://github.com/rust-lang/mdBook/releases/latest/download/mdbook-v0.4.37-x86_64-unknown-linux-gnu.tar.gz | tar xz
+          curl -sSL https://github.com/rust-lang/mdBook/releases/latest/download/mdbook-v0.4.37-x86_64-unknown-linux-gnu.tar.gz | head
           sudo mv mdbook /usr/local/bin/mdbook
 
       - name: Build the book
